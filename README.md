@@ -195,7 +195,8 @@ Student-Performance-Prediction-Project/
 
 ## Author
 
-**Ahmed**
-GitHub: [@AhmedMShawky23](https://github.com/AhmedMShawky23)
+**Ahmed Mohamed Shawky**
+- GitHub: [@AhmedMShawky23](https://github.com/AhmedMShawky23)
+- LinkedIn: [Ahmed M. Shawky](https://www.linkedin.com/in/ahmed-mohamed-shawky/)
 
 If you found this project useful, feel free to ⭐ the repo.
